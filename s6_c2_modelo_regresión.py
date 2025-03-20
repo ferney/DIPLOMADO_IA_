@@ -11,7 +11,7 @@ drive.mount('/content/drive')
 
 import os # leer patch ruta sde ecarpetas
 # chdir: cambia la dirección
-os.chdir('/content/drive/MyDrive/Carito/Capacitaciones/Curso ia 5feb025')
+os.chdir('/DATA')
 
 os.listdir() # Lista de los documentos
 
